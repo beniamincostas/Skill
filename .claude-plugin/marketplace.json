@@ -1,0 +1,13 @@
+{
+  "name": "beniamincostas",
+  "owner": {
+    "name": "Beniamin Costas"
+  },
+  "plugins": [
+    {
+      "name": "deep-review",
+      "source": "./plugins/deep-review",
+      "description": "Deep, scope-adaptive code review (+ optional --fix) for Claude Code: scope resolver, multi-angle sub-agent fan-out, per-candidate verification, and safe batched corrections."
+    }
+  ]
+}

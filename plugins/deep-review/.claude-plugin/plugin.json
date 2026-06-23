@@ -1,0 +1,8 @@
+{
+  "name": "deep-review",
+  "version": "1.0.0",
+  "description": "Deep, scope-adaptive code review (+ optional --fix) for Claude Code: scope resolver (PR / branch / range / path / subsystem / whole-product / no-git), independent multi-angle sub-agent fan-out (correctness + connections/contracts + UI/a11y + cleanup/conventions), per-candidate verification (intent + reachability + live-vs-latent), a gap sweep, and an opt-in severity-batched, test-gated, revert-on-regression correction mode.",
+  "author": {
+    "name": "Beniamin Costas"
+  }
+}
